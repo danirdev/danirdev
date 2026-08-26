@@ -46,8 +46,8 @@ Sistema web a medida desarrollado para optimizar la gestión integral de un nego
 ### 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danirdev&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danirdev&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats-sable-alpha.vercel.app/api?username=danirdev&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats-sable-alpha.vercel.app/api/top-langs/?username=danirdev&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
