@@ -1,57 +1,65 @@
-# Hi there, I'm Daniel Ramos (danirdev) 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/ramos-daniel-alberto"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://danielramos.online"><img src="https://img.shields.io/badge/Portafolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+# Daniel Ramos
 
-### 👨‍💻 Sobre mí
+**Full Stack Developer · Técnico en Electrónica · Estudiante de Ing. Informática**
 
-- 🎓 Estudiante de **Ingeniería Informática** en la UNJu.
-- ⚡ **Técnico en Electrónica** egresado de la EET de Perico.
-- 🌐 Desarrollador Web Full Stack especializado en digitalizar negocios locales.
-- 🚀 **Creando bugs desde:** 2021.
+Jujuy, Argentina
 
----
+<br/>
 
-### 🛠️ Tecnologías y Herramientas
+[![Portafolio](https://img.shields.io/badge/Portafolio-121212?style=flat-square&logo=vercel&logoColor=white)](https://www.danielramos.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Contacto-121212?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:tu-email@gmail.com)
 
-#### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### **Backend & Base de Datos**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### **Herramientas**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-### 🌟 Proyecto Destacado
+### Sobre mí
 
-#### 📄 **Fotocopias Ramos & Librería**
-Sistema web a medida desarrollado para optimizar la gestión integral de un negocio local.
-- **Funcionalidades:** Control de caja, ventas en tiempo real, gestión de inventario y automatizaciones con WhatsApp Business.
-- **Tech Stack:** React, Tailwind CSS, Supabase, Node.js.
+Desarrollador web y técnico electrónico enfocado en crear soluciones digitales para optimizar procesos reales.
 
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats-sable-alpha.vercel.app/api?username=danirdev&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats-sable-alpha.vercel.app/api/top-langs/?username=danirdev&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
-</p>
+- **Formación:** Estudiante avanzado de **Ingeniería Informática** (UNJu) y **Técnico Electrónico**.
+- **Enfoque:** Desarrollo full-stack moderno, integración de hardware/IoT y arquitecturas funcionales.
+- **Intereses:** Electrónica, hardware, análisis de datos y aplicaciones web de alto rendimiento.
 
 ---
 
-📩 **¡Hablemos!**  
-[LinkedIn](https://linkedin.com/in/ramos-daniel-alberto) | [Portafolio](https://danielramos.online)
+### Stack Tecnológico
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-18181B?style=flat-square&logo=astro&logoColor=FF5D01)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6)
+
+**Backend & Datos**  
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Herramientas**  
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF)
+
+---
+
+### Proyecto Destacado
+
+#### [Sistema de Gestión Comercial — Fotocopias Ramos & Librería](https://fotocopiasramos.site)
+
+> Plataforma web integral para la digitalización y automatización operativa en tiempo real.
+
+- **Impacto:** Control de flujo de caja diario, gestión de inventario automatizada y conexión con WhatsApp Business.
+- **Stack:** `React` · `Tailwind CSS` · `Node.js` · `Supabase`
+- 🔗 **[Ver Código en GitHub →](https://github.com/danirdev)**
+
+---
+
+<div align="center">
+  <sub>Daniel Ramos · San Salvador de Jujuy, Argentina</sub>
+</div>
